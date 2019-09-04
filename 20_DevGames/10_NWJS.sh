@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH=/home/cpi/apps/nwjs/lib /home/cpi/apps/nwjs/nw /home/cpi/games/NWJS  --use-gl=egl --ignore-gpu-blacklist --disable-accelerated-2d-canvas --num-raster-threads=2 --remote-debugging-port=9222
